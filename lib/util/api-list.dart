@@ -1,9 +1,9 @@
 // ignore_for_file: file_names
 
 class APIList {
-  static String? mapApiKey = "AIzaSyB3S4fcKMcU-Ll9RSPkCiwdk1";
-  static String? licenseCode = "YOUR_LICENSE_CODE";
-  static String? baseUrl = "https://demo.foodking.dev";
+  static String? mapApiKey = "AIzaSyD8ofDLbLBEloMBGHCOoIs4KBTvmclqxJU";
+  static String? licenseCode = "z2v05je9-g3t4-80k8-3062-e392d99771f48520";
+  static String? baseUrl = "https://grandekitchen.com";
   static String? paymentUrl = "${baseUrl!}/payment/";
   static String? login = "${baseUrl!}/api/auth/login";
   static String? otpSignUp = "${baseUrl!}/api/auth/signup/otp";

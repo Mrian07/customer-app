@@ -50,7 +50,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.inilabs.foodking.demo"
+        applicationId "com.gradekitchen.app"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()

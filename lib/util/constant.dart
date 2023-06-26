@@ -3,9 +3,9 @@
 import 'package:flutter/cupertino.dart';
 
 class AppColor {
-  static const Color primaryColor = Color(0xffFF006B);
+  static const Color primaryColor = Color.fromARGB(255, 174, 6, 76);
   static const Color primaryBackgroundColor = Color(0xffFFFBFB);
-  static const Color loginButtonColor = Color(0xffFF006B);
+  static const Color loginButtonColor = Color.fromARGB(255, 174, 6, 76);
   static const Color fontColor = Color(0xff1F1F39);
   static const Color dividerColor = Color(0xffEFF0F6);
   static const Color textSignupColor = Color(0xff6E7191);

@@ -1,85 +1,34 @@
 {
   "project_info": {
-    "project_number": "843456771665",
-    "project_id": "foodking-inilabs",
-    "storage_bucket": "foodking-inilabs.appspot.com"
+    "project_number": "825123677617",
+    "project_id": "grandekitchen-3b133",
+    "storage_bucket": "grandekitchen-3b133.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:843456771665:android:3540599d5900f4c3582a70",
+        "mobilesdk_app_id": "1:825123677617:android:4bc576d0cd35ef7c55c990",
         "android_client_info": {
-          "package_name": "com.inilabs.foodking.demo"
+          "package_name": "com.gradekitchen.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "843456771665-6j0q5rbfebo2jf0dlna4bth83genbhb0.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.inilabs.foodking.demo",
-            "certificate_hash": "e9c38b2635b42175c5ec1c68460e4ea606a607c0"
-          }
-        },
-        {
-          "client_id": "843456771665-pi46ra110f1t774nipad865tclh79e5g.apps.googleusercontent.com",
+          "client_id": "825123677617-tv9cq9tkt2lqfg7ep5pv8fumsloi43ie.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBHkY58zN2KjNKUN6fomyXT_c-2c0jXROg"
+          "current_key": "AIzaSyAzqKWZ5Mzs-Dj6wCIfWbyX4rSVNar0RcA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "843456771665-pi46ra110f1t774nipad865tclh79e5g.apps.googleusercontent.com",
+              "client_id": "825123677617-tv9cq9tkt2lqfg7ep5pv8fumsloi43ie.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "843456771665-dnmqf8030vqkqupag2u0daidgg1db9ut.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.inilabs.foodking.demo.ios"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:843456771665:android:7dc7c9d2fe93e241582a70",
-        "android_client_info": {
-          "package_name": "com.inilabs.foodking.demo.delivery"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "843456771665-pi46ra110f1t774nipad865tclh79e5g.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBHkY58zN2KjNKUN6fomyXT_c-2c0jXROg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "843456771665-pi46ra110f1t774nipad865tclh79e5g.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "843456771665-dnmqf8030vqkqupag2u0daidgg1db9ut.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.inilabs.foodking.demo.ios"
-              }
             }
           ]
         }
